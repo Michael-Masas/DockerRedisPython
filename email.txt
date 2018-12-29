@@ -1,0 +1,19 @@
+jenkinsclass10@gmail.com
+Jenkins10!
+smtp.google.com
+port 587
+
+
+
+Outgoing Mail (SMTP) Server	
+smtp.gmail.com
+
+Requires SSL: Yes
+
+Requires TLS: Yes (if available)
+
+Requires Authentication: Yes
+
+Port for SSL: 465
+
+Port for TLS/STARTTLS: 587
