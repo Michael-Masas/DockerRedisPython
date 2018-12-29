@@ -4,5 +4,5 @@ from selenium import webdriver                          ##Import Web Driver Modu
 from selenium.webdriver.common.keys import Keys         ##Import Send Keys Module from selenium library
 
 driver = webdriver.Chrome(executable_path='C:\ci_pipeline\chromedriver.exe')                                       #Define Web Driver Path
-driver.get("http://localhost:5000")
+driver.get("http://127.0.0.1:5000")
 time.sleep(30)
