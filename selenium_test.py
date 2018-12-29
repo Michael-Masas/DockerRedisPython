@@ -6,3 +6,5 @@ from selenium.webdriver.common.keys import Keys         ##Import Send Keys Modul
 driver = webdriver.Chrome(executable_path='C:\ci_pipeline\chromedriver.exe')                                       #Define Web Driver Path
 driver.get("http://127.0.0.1:5000")
 time.sleep(30)
+
+driver.quit()
